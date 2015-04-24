@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\rectitem.o
+./release\LKRectItem.o
+./release\LKBaseItem.o
+./release\focusagentitem.o
+./release\LKAgentItem.o
+./release\qrc_image.o
+./release\moc_mainwindow.o
+./release\moc_rectitem.o
+);
