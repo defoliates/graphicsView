@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 
      return a.exec();
 
-//    QApplication app(argc,argv);
+// as   QApplication app(argc,argv);
 
 //       QGraphicsScene *scene = new QGraphicsScene;  //场景
 //       MyItem *item =new MyItem;

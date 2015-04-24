@@ -13,7 +13,7 @@ RectItem::RectItem()
    setFlags(  QGraphicsItem::ItemIsMovable |
                QGraphicsItem::ItemSendsGeometryChanges
                | QGraphicsItem::ItemIsSelectable);
-   // setAcceptHoverEvents(true);
+    setAcceptHoverEvents(true);
 
 //   // m_rect=QRectF(0,0,100,100);
 //     m_cursor=new QCursor;
