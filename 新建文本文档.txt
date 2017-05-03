@@ -1,0 +1,1 @@
+graphicsView框架的工程，可拖动item的大小和在可视范围内移动。
